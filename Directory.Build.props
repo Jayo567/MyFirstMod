@@ -1,0 +1,20 @@
+<Project>
+  <PropertyGroup>
+    <!-- Update this path to point exactly to your game's root installation folder -->
+    <GameFolder>C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo</GameFolder>
+    <GameManagedArtifacts>$(GameFolder)\CasualtiesUnknown_Data\Managed</GameManagedArtifacts>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Core Unity Assemblies -->
+    <Reference Include="$(GameManagedArtifacts)\UnityEngine.dll" Private="false" />
+    <Reference Include="$(GameManagedArtifacts)\UnityEngine.CoreModule.dll" Private="false" />
+    
+    <!-- Core Game Assembly (Name varies by game, e.g., Assembly-CSharp.dll) -->
+    <Reference Include="$(GameManagedArtifacts)\Assembly-CSharp.dll" Private="false" />
+
+    <!-- BepInEx Assemblies -->
+    <Reference Include="$(GameFolder)\BepInEx\core\BepInEx.dll" Private="false" />
+    <Reference Include="$(GameFolder)\BepInEx\core\0Harmony.dll" Private="false" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\bin\Debug\netstandard2.1\MyFirstMod.deps.json
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\bin\Debug\netstandard2.1\MyFirstMod.dll
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\bin\Debug\netstandard2.1\MyFirstMod.pdb
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.csproj.AssemblyReference.cache
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.GeneratedMSBuildEditorConfig.editorconfig
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.AssemblyInfoInputs.cache
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.AssemblyInfo.cs
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.csproj.CoreCompileInputs.cache
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.dll
+H:\RiderProjects\MyFirstMod\src\MyFirstMod\obj\Debug\netstandard2.1\MyFirstMod.pdb
