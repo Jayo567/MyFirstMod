@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c1d74b62331b1deb4329e066516625a4dc48aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
